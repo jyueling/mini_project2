@@ -43,7 +43,7 @@ for i in labels:
         labels2[j]=1
         j+=1
 labels = labels2
-print(labels)
+
 
 
 #class_names = ['sunflower','rose']
